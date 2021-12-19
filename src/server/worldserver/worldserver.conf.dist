@@ -3126,7 +3126,7 @@ BlackMarket.AuctionDelayMod = 60
 #                    0 - Log only ("network")
 #                    2 - Log + kick + ban
 
-PacketSpoof.Policy = 1
+PacketSpoof.Policy = 0
 
 #
 #    PacketSpoof.BanMode

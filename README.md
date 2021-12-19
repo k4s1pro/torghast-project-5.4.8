@@ -1,13 +1,11 @@
 
-**MoP 5.4.8 Build 18414**
+**MoP 5.4.8 Build 18414 REPACK TORGHAST**
+[DOWNLOAD](https://mega.nz/file/X1lWCY7Q#j0Lj1kPVdGsLae0s3FVUMkFf20vqYqfqE_CjlQGghT0)
 
-## Client Patch
-[SkyFire-Community-Tools](https://github.com/ProjectSkyfire/SkyFire-Community-Tools).
 
-## Build Status
-# [![Build Status](https://travis-ci.org/ProjectSkyfire/SkyFire.548.png)](https://travis-ci.org/ProjectSkyfire/SkyFire.548)
 
 ## Requirements
+  [DOWNLOAD FULL PROGRAMS](https://drive.google.com/file/d/1WLJxNEhmf7SiC549X4mzI9u_4-33nOw7/view?usp=sharing)
 + Platform: Linux, Windows or Mac
 + Processor with SSE2 support
 + boost_1_63_0-msvc-14.0-64
@@ -24,14 +22,6 @@ Detailed installation guides are available in the wiki for
 [Mac OSX](http://wiki.projectskyfire.org/index.php?title=Installation_Mac_OS_X).
 
 
-## Reporting issues
-Please use the search function before you report issues.
-[SkyFire Issue Tracker](https://github.com/ProjectSkyfire/SkyFire.548/issues).
-
-## Submitting fixes
-Fixes are submitted as pull requests via Github.
-
-[SkyFire Pull Request](https://github.com/ProjectSkyfire/SkyFire.548/pulls)
 
 ## Copyright
 License: GPL 3.0
@@ -45,8 +35,6 @@ Read file [THANKS](THANKS.md)
 Read File [TO-DO](TODO.md)
 
 ## Links
-Forum [http://www.projectskyfire.org](http://www.projectskyfire.org)
 
-Database [http://www.projectskyfire.org/index.php?/files/](http://www.projectskyfire.org/index.php?/files/)
+Database [https://github.com/k4s1pro/torghast-project-5.4.8/releases/tag/DBWORLDFULL](https://github.com/k4s1pro/torghast-project-5.4.8/releases/tag/DBWORLDFULL)
 
-Wiki [http://wiki.projectskyfire.org](http://wiki.projectskyfire.org)
